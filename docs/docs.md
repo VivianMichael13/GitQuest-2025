@@ -44,7 +44,7 @@ if(number == 10) {
 
 ## 3. Loops
 
-Loops repeat a block of code multiple times:
+Loops repeat a block of cod times:
 
 ```java
 for(int i = 0; i <= 5; i++) {
